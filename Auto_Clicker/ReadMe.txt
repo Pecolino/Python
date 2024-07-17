@@ -1,0 +1,1 @@
+Cuidado ao usar o auto clicker a tecla para Ligar e Desligar é "H"

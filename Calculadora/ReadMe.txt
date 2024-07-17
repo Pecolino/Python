@@ -1,0 +1,1 @@
+Esta calculadora foi desenvolvida com o propósito de aprender a utilizar a biblioteca Custom Tkinter
